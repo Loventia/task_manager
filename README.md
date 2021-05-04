@@ -2,7 +2,7 @@
 
 
 Follow these steps:
-* Create a copy of your previous Capstone project # (task_manager.py) and
+* Create a copy of your previous Capstone project ##(task_manager.py) and
 save it in the Dropbox folder for this project. Also, copy and paste the text
 files (user.txt and tasks.txt) that accompanied the previous Capstone
 project to this folder. Modify this program as follows:
