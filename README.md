@@ -2,7 +2,7 @@
 
 
 Follow these steps:
-* Create a copy of your previous Capstone project ##(task_manager.py) and
+* Create a copy of your previous Capstone project *(task_manager.py) and
 save it in the Dropbox folder for this project. Also, copy and paste the text
 files (user.txt and tasks.txt) that accompanied the previous Capstone
 project to this folder. Modify this program as follows:
@@ -29,7 +29,7 @@ used to identify the task.
 or input ‘-1’ to return to the main menu.
 *  If the user selects a specific task, they should be able to choose to
 either mark the task as complete or edit the task. If the user
-chooses to mark a task as complete, the ‘Yes’/’No’ value that
+chooses to mark a task as complete, the *‘Yes’/’No’* value that
 describes whether the task has been completed or not should be
 changed to ‘Yes’. When the user chooses to edit a task, the
 username of the person to whom the task is assigned or the due
